@@ -1,0 +1,7 @@
+similares 5 4
+recomendar 1 5
+camino 12, 4321
+centralidad 20
+distancias 124
+estadisticas
+comunidades
